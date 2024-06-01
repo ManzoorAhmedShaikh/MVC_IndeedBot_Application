@@ -1,4 +1,6 @@
-![MVC_IndeedBot_Application](Assets/Window.PNG)
+<div align="center">
+  <img src="Assets/Window.PNG" alt="MVC_IndeedBot_Application">
+</div>
 
 # MVC_IndeedBot_Application
 
