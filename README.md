@@ -1,4 +1,4 @@
-![MVC_IndeedBot_Application](Assets/Window.png)
+![MVC_IndeedBot_Application](Assets/Window.PNG)
 
 # MVC_IndeedBot_Application
 
